@@ -1,0 +1,2 @@
+# AlgoritmosNumericos
+ALGORITMOS NUMÉRICOS (13282 TEORIA)
